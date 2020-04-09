@@ -86,12 +86,13 @@ body{
 }
 
 /* grid */
+
 .grid {
-    height: 100vh;
     background-image: url("../images/grid/grid_bg.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+    padding: 200px 0px 50px 0px;
 }
 .grid_inner1{
     background-image: url("../images/grid/grid_stripe.png");
@@ -99,12 +100,6 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
 }
-.grid_column1{
-    
-}
-.grid_column2{
-    
-}
-.grid_column3{
-    
+.grid_img1{
+    border-radius: 50px;
 }

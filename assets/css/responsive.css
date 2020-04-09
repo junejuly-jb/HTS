@@ -89,6 +89,11 @@
     .works{
         padding: 20px 0px;
     }
+    /* grid */
+    .grid{
+        background-color: #FFF200;
+        padding: 50px 0px;
+    }
 }
 @media screen and (min-width: 427px) and (max-width: 767px){
     /* navigation */
@@ -173,6 +178,11 @@
     .works_column3{
         display: none;
     }
+    /* grid  */
+    .grid{
+        background-color: #FFF200;
+        padding: 70px 0px;
+    }
 }
 @media screen and (min-width: 768px) and (max-width: 1024px){
     /* main visual */
@@ -235,6 +245,10 @@
     }
     .works_card{
         padding: 15px 0px;
+    }
+    /* grid  */
+    .grid_img1{
+        border-radius: 15px;
     }
 }
 @media screen and (min-width: 1025px) and (max-width: 2560px){
