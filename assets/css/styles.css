@@ -57,3 +57,54 @@ body{
 .vision_card{
     padding: 20px 0px;
 }
+/* about */
+.about{
+    padding: 50px 0px;
+    font-family: 'Karla', sans-serif;
+}
+.about_heading{
+    font-size: 50px;
+    font-weight: bold;
+}
+.about_card{
+    padding: 20px 0px;
+}
+/* works  */
+.works{
+    padding: 50px 0px;
+    font-family: 'Karla', sans-serif;
+}
+.works_heading{
+    font-size: 50px;
+    font-weight: bold;
+}
+.works_column3 img{
+    width: 50px;
+}
+.works_card{
+    padding: 20px 0px;
+}
+
+/* grid */
+.grid {
+    height: 100vh;
+    background-image: url("../images/grid/grid_bg.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.grid_inner1{
+    background-image: url("../images/grid/grid_stripe.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.grid_column1{
+    
+}
+.grid_column2{
+    
+}
+.grid_column3{
+    
+}
